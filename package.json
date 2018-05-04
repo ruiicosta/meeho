@@ -1,0 +1,8 @@
+{
+  "name": "meeho",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "git:status": "git status"
+  }
+}
